@@ -174,7 +174,7 @@ function Passaro(alturaJogo) {
             this.setY(novoY)
         }
     }
-
+//
     this.setY(alturaJogo / 2)
 }
 
