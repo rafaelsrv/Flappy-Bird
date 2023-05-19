@@ -176,7 +176,7 @@ function Passaro(alturaJogo) {
     }
 //
     this.setY(alturaJogo / 2)
-}
+}!
 
 
 
